@@ -10,11 +10,11 @@
 
 ## GitHub Stats
 
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=getanirao&show_icons=true&theme=radical)
+![Anirudh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=getanirao&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=getanirao&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=getanirao&layout=compact&theme=radical)
 
 ## Connect
 
