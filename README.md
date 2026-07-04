@@ -1,7 +1,6 @@
 ## Skills
 
-![Ghidra](https://img.shields.io/badge/Ghidra-430098?style=for-the-badge)
-![ARMv4t](https://img.shields.io/badge/ARMv4t-0091BD?style=for-the-badge)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,11 +9,11 @@
 
 ## GitHub Stats
 
-![Anirudh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=getanirao&show_icons=true&theme=radical)
+![Anirudh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=getanirao&show_icons=true&theme=dark)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=getanirao&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=getanirao&layout=compact&theme=dark)
 
 ## Connect
 
