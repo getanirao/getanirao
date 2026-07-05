@@ -7,9 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Coding Activity
-
-![WakaTime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=getanirao&layout=compact&theme=dark)
 
 ## Connect
 
